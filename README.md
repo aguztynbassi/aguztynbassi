@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá! Sou Agustin 🇦🇷🇧🇷
 
-<!--
-**aguztynbassi/aguztynbassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Incident Response Analyst | SOC Lead | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+Me especializo en la detección de amenazas, respuesta ante incidentes y seguridad en la nube (AWS). Mi enfoque actual está en la automatización de procesos de monitoreo y el desarrollo de arquitecturas de detección escalables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+### **Liderazgo de Equipos Técnicos**
+`#TeamLeadership` `#EngineeringManagement` `#PeopleManagement` `#Mentoring` `#LiderazgoDeEquipos` `#TechLead` `#TalentDevelopment`
+
+### **Gestión Operativa (SOC & Incident Response)**
+`#SOCManagement` `#SecurityOperations` `#TeamCoordination` `#IncidentResponseLead` `#OperationalExcellence` `#ResourcePlanning` `#SecurityLeadership`
+
+### **Metodologías y Estrategia**
+`#Agile` `#StrategicPlanning` `#CrisisManagement` `#ConflictResolution` `#PerformanceMetrics` `#DecisionMaking`
+
+---
+
+### 🚀 Proyectos Destacados
+
+- **[S.I.D. (Security Incident Detector)](https://github.com/aguztynbassi/sid):** Repositorio especializado en reglas de detección para AWS y playbooks de respuesta. (Ex-Tier4).
+- **Custom Sentinel Rules:** Una colección de detecciones optimizadas para entornos corporativos usando KQL.
+
+---
+
+### 📈 Mi actividad en GitHub
+
+![Resumen de estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+
+---
+
+> "La seguridad no es un producto, es un proceso."
