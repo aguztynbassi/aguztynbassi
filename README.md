@@ -17,6 +17,6 @@ Enfocado en el liderazgo de equipos, la optimización de protocolos y la resilie
 *   **⚙️ SecOps & SIEM:** `#IBMQRadar` `#MicrosoftSentinel` `#CortexXSOAR` `#PagerDuty` `#SOAR` `#SIEM` `#SecurityOperations`
 *   **🛡️ Endpoint & Network:** `#CrowdStrike` `#PaloAltoCortex` `#EDR` `#XDR` `#IPS` `#IDS` `#Stealthwatch`
 *   **⚖️ Compliance & Governance:** `#SOX` `#PCIDSS` `#RiskManagement` `#Compliance` `#GRC` `#CyberRisk`
-*   **💻 Languages & Development:** `#Python` `#KQL` `#Kusto` `#SigmaRules` `#Git` `#DetectionEngineering`
+*   **💻 Languages & Development:** `#Python` `#KQL` `#Kusto` `#SigmaRules` `#Git` `#DetectionEngineering` `#C++`
 
 > "La seguridad no es un producto, es un proceso."
