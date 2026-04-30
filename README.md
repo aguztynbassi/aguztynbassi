@@ -1,4 +1,4 @@
-> Profesional en Seguridad de la Información con sólida experiencia en el diseño y gestión de políticas de seguridad y defensa. Especialista en gestión avanzada de tecnologías críticas como IPS, SIEM (Microsoft Sentinel) e IA aplicada (Copilot for Security) en entornos Cloud. Enfocado en el liderazgo de equipos, la optimización de protocolos y la resiliencia organizacional mediante automatización y análisis de amenazas.
+> Especialista en gestión avanzada de tecnologías críticas como IPS, SIEM (Microsoft Sentinel) e IA aplicada (Copilot for Security) en entornos Cloud. Enfocado en el liderazgo de equipos, la optimización de protocolos y la resiliencia organizacional mediante automatización y análisis de amenazas.
 
 ## 🚀 Perfil Profesional
 
