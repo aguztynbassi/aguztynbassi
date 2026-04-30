@@ -13,10 +13,10 @@ Enfocado en el liderazgo de equipos, la optimización de protocolos y la resilie
 
 # 🛠️ Tech Stack & Skills
 
-*   **☁️ Cloud Security:** `#AWS` `#Azure` `#CloudGuard` `#MicrosoftSentinel` `#CloudNative`
-*   **⚙️ SecOps & SIEM:** `#IBMQRadar` `#MicrosoftSentinel` `#CortexXSOAR` `#PagerDuty` `#SOAR` `#SIEM` `#SecurityOperations`
-*   **🛡️ Endpoint & Network:** `#CrowdStrike` `#PaloAltoCortex` `#EDR` `#XDR` `#IPS` `#IDS` `#Stealthwatch`
-*   **⚖️ Compliance & Governance:** `#SOX` `#PCIDSS` `#RiskManagement` `#Compliance` `#GRC` `#CyberRisk`
-*   **💻 Languages & Development:** `#Python` `#KQL` `#Kusto` `#SigmaRules` `#Git` `#DetectionEngineering` `#C++`
+*   **☁️ Cloud Security:** `AWS` `Azure` `CloudGuard` `MicrosoftSentinel` `CloudNative`
+*   **⚙️ SecOps & SIEM:** `IBMQRadar` `MicrosoftSentinel` `CortexXSOAR` `PagerDuty` `SOAR` `SIEM` `SecurityOperations`
+*   **🛡️ Endpoint & Network:** `CrowdStrike` `PaloAltoCortex` `EDR` `XDR` `IPS` `IDS` `Stealthwatch`
+*   **⚖️ Compliance & Governance:** `SOX` `PCIDSS` `RiskManagement` `Compliance` `GRC` `CyberRisk`
+*   **💻 Languages & Development:** `Python` `KQL` `Kusto` `SigmaRules` `Git` `DetectionEngineering` `C++`
 
-> "La seguridad no es un producto, es un proceso."
+> La seguridad no es un producto, es un proceso.
