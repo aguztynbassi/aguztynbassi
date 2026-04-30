@@ -1,5 +1,3 @@
-# Olá! Sou Agustin 🇦🇷🇧🇷
-
 ### Senior Incident Response Analyst | SOC Lead | Cybersecurity Enthusiast
 
 Me especializo en la detección de amenazas, respuesta ante incidentes y seguridad en la nube (AWS). Mi enfoque actual está en la automatización de procesos de monitoreo y el desarrollo de arquitecturas de detección escalables.
@@ -14,7 +12,7 @@ Me especializo en la detección de amenazas, respuesta ante incidentes y segurid
 ### **Gestión Operativa (SOC & Incident Response)**
 `#SOCManagement` `#SecurityOperations` `#TeamCoordination` `#IncidentResponseLead` `#OperationalExcellence` `#ResourcePlanning` `#SecurityLeadership`
 
-### **Metodologías y Estrategia**
+### **Metodologías y Estrategia:** 
 `#Agile` `#StrategicPlanning` `#CrisisManagement` `#ConflictResolution` `#PerformanceMetrics` `#DecisionMaking`
 
 ---
@@ -23,13 +21,6 @@ Me especializo en la detección de amenazas, respuesta ante incidentes y segurid
 
 - **[S.I.D. (Security Incident Detector)](https://github.com/aguztynbassi/sid):** Repositorio especializado en reglas de detección para AWS y playbooks de respuesta. (Ex-Tier4).
 - **Custom Sentinel Rules:** Una colección de detecciones optimizadas para entornos corporativos usando KQL.
-
----
-
-### 📈 Mi actividad en GitHub
-
-![Resumen de estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
 
 ---
 
